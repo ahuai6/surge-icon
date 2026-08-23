@@ -65,6 +65,34 @@
     {
       "name": "Reddit",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Reddit-iOS-1024x1024.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Discord_-_Talk,_Play,_Hang_Out-iOS-1024x1024.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/PayPal_-_Pay,_Send,_Save-iOS-1024x1024.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Spotify__Music_and_Podcasts-iOS-1024x1024.png"
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/TIDAL_Music__HiFi_Sound-iOS-1024x1024.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Telegram_Messenger-iOS-1024x1024.png"
+    },
+    {
+      "name": "Roblox",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Roblox-iOS-1024x1024.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Steam_Mobile-iOS-1024x1024.png"
     }
   ]
 }
