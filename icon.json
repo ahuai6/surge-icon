@@ -1,0 +1,10 @@
+{
+  "name": "图标包",
+  "description": "自用 来自App Store",
+  "icons": [
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Surge_5-iOS-1024x1024.png"
+    }
+  ]
+}
