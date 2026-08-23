@@ -5,6 +5,26 @@
     {
       "name": "Surge",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Surge_5-iOS-1024x1024.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Speedtest_by_Ookla-iOS-1024x1024.png"
+    },
+    {
+      "name": "AppleMusic",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Apple_Music-iOS-1024x1024.png"
+    },
+    {
+      "name": "MicrosoftEdge",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Microsoft_Edge-iOS-1024x1024.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Google-iOS-1024x1024.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Instagram-iOS-1024x1024.png"
     }
   ]
 }
