@@ -25,6 +25,46 @@
     {
       "name": "Instagram",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Instagram-iOS-1024x1024.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Claude_by_Anthropic-iOS-1024x1024.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/ChatGPT-iOS-1024x1024.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Perplexity_-_AI_Search_&_Chat-iOS-1024x1024.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Grok_AI-iOS-1024x1024.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/TikTok_-_Videos,_Shop_&_LIVE-iOS-1024x1024.png"
+    },
+    {
+      "name": "抖音",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/抖音-iOS-1024x1024.png"
+    },
+    {
+      "name": "Bluesky",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Bluesky_Social-iOS-1024x1024.png"
+    },
+    {
+      "name": "Snapchat",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Snapchat-iOS-1024x1024.png"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Wikipedia-iOS-1024x1024.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Reddit-iOS-1024x1024.png"
     }
   ]
 }
