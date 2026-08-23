@@ -1,0 +1,3 @@
+DOMAIN,ecs-api.xns.one
+DOMAIN-SUFFIX,nstool.netease.com
+DOMAIN-SUFFIX,nstool.laiqukankan.com
