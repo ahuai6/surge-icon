@@ -1,0 +1,2 @@
+IP-ASN,22697,no-resolve
+IP-ASN,11281,no-resolve
