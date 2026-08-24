@@ -93,6 +93,10 @@
     {
       "name": "Steam",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Steam_Mobile-iOS-1024x1024.png"
+    },
+    {
+      "name": "Chrome",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Google_Chrome-iOS-1024x1024.png"
     }
   ]
 }
