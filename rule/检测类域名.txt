@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,iplark.com
 DOMAIN-SUFFIX,ip2location.com
+DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,ipinfo.io
@@ -35,3 +36,6 @@ DOMAIN-SUFFIX,cleanip.io
 DOMAIN-SUFFIX,myip.ms
 DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,checkip.amazonaws.com
+DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,ipregistry.co
+DOMAIN-SUFFIX,api.ipapi.is
