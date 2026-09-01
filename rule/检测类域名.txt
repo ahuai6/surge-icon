@@ -34,3 +34,4 @@ DOMAIN,pili.app
 DOMAIN-SUFFIX,cleanip.io
 DOMAIN-SUFFIX,myip.ms
 DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,checkip.amazonaws.com
