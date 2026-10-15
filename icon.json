@@ -125,6 +125,18 @@
     {
       "name": "Copilot",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Microsoft_Copilot-iOS-1024x1024.png"
+    },
+    {
+      "name": "LinktoWindows",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Link_to_Windows-iOS-1024x1024.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Stash_-_Rule_Based_Proxy-iOS-1024x1024.png"
+    },
+    {
+      "name": "WindowsApp",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Windows_App_Mobile-iOS-1024x1024.png"
     }
   ]
 }
