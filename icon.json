@@ -109,6 +109,22 @@
     {
       "name": "Loon",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Loon-iOS-1024x1024.png"
+    },
+    {
+      "name": "Muse",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Muse_from_Meta-iOS-1024x1024.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/GitHub-iOS-1024x1024.png"
+    },
+    {
+      "name": "Bing",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Microsoft_Bing_Search-iOS-1024x1024.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Microsoft_Copilot-iOS-1024x1024.png"
     }
   ]
 }
