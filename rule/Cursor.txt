@@ -1,0 +1,20 @@
+# Grok Bot / Cursor RULE-SET
+# classical / DOMAIN-SUFFIX list (plain text)
+# Refs:
+#   https://cursor.com/docs/grok-bot/proxies
+#   https://cursor.com/docs/enterprise/network-configuration
+#   https://docs.x.ai/x-subscription/sign-in-domains
+
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN,downloads.cursor.com
+DOMAIN,marketplace.cursorapi.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,spacex.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grokipedia.com
