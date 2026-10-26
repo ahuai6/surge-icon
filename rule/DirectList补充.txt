@@ -2,4 +2,3 @@ DOMAIN,ecs-api.xns.one
 DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN-SUFFIX,nstool.laiqukankan.com
 DOMAIN-SUFFIX,jeeyio.com
-IP-CIDR,124.221.69.228/32,DIRECT,no-resolve
