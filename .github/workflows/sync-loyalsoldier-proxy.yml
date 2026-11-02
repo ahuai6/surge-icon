@@ -1,0 +1,56 @@
+name: Sync Loyalsoldier proxy (split into 3)
+
+on:
+  schedule:
+    # Upstream builds ~22:30 UTC; run a bit later
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and split upstream proxy.txt
+        run: |
+          set -euo pipefail
+          mkdir -p rule
+          curl -fsSL "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt" -o /tmp/proxy.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          lines=[l for l in Path('/tmp/proxy.txt').read_text().splitlines() if l.strip()]
+          n=len(lines)
+          parts=3
+          sizes=[n//parts]*parts
+          for i in range(n%parts):
+              sizes[i]+=1
+          idx=0
+          for i,sz in enumerate(sizes,1):
+              chunk=lines[idx:idx+sz]
+              idx+=sz
+              header=[
+                  f'# Loyalsoldier proxy ruleset part {i}/{parts}',
+                  f'# Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt',
+                  f'# Auto-synced; do not edit by hand',
+                  f'# Lines {idx-sz+1}-{idx} of {n}',
+              ]
+              Path(f'rule/proxy-{i}.txt').write_text('\n'.join(header+chunk)+'\n')
+              print(f'wrote rule/proxy-{i}.txt ({sz} rules)')
+          PY
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rule/proxy-1.txt rule/proxy-2.txt rule/proxy-3.txt
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: sync Loyalsoldier proxy ruleset (split 1/2/3)"
+          git push
