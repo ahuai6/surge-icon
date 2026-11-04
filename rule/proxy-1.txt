@@ -1,7 +1,7 @@
 # Loyalsoldier proxy ruleset part 1/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 1-9112 of 27335
+# Lines 1-9113 of 27337
 DOMAIN,1password.drift.click
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
@@ -4140,6 +4140,7 @@ DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.de
+DOMAIN-SUFFIX,beget.email
 DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.ru
@@ -4363,6 +4364,7 @@ DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,biliworld.com
@@ -9113,4 +9115,3 @@ DOMAIN-SUFFIX,facebook-newsroom.org
 DOMAIN-SUFFIX,facebook-pmdcenter.com
 DOMAIN-SUFFIX,facebook-pmdcenter.net
 DOMAIN-SUFFIX,facebook-pmdcenter.org
-DOMAIN-SUFFIX,facebook-privacy.com
