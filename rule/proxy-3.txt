@@ -1,7 +1,7 @@
 # Loyalsoldier proxy ruleset part 3/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 18226-27337 of 27337
+# Lines 18229-27342 of 27342
 DOMAIN-SUFFIX,onamae-desktop.com
 DOMAIN-SUFFIX,onamae-office.com
 DOMAIN-SUFFIX,onamae.com
@@ -1589,6 +1589,7 @@ DOMAIN-SUFFIX,projectbaseline.com
 DOMAIN-SUFFIX,projectcircuitbreaker.com
 DOMAIN-SUFFIX,projecteuclid.org
 DOMAIN-SUFFIX,projectjav.com
+DOMAIN-SUFFIX,projectmoon.studio
 DOMAIN-SUFFIX,projectmurphy.net
 DOMAIN-SUFFIX,projectpoint.com
 DOMAIN-SUFFIX,projectpoint.net
@@ -3441,6 +3442,7 @@ DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,skillshare.com
 DOMAIN-SUFFIX,skimtube.com
 DOMAIN-SUFFIX,skinstrip.net
+DOMAIN-SUFFIX,skinswap.com
 DOMAIN-SUFFIX,skokka.com
 DOMAIN-SUFFIX,sksarab.top
 DOMAIN-SUFFIX,skunkgirl.cc
