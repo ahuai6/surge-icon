@@ -141,6 +141,10 @@
     {
       "name": "AppleStore",
       "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/Apple_Store-iOS-1024x1024.png"
+    },
+    {
+      "name": "𝕏",
+      "url": "https://raw.githubusercontent.com/ahuai6/surge-icon/refs/heads/main/icon/X-iOS-1024x1024.png"
     }
   ]
 }
