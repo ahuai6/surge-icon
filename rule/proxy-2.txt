@@ -1,8 +1,7 @@
 # Loyalsoldier proxy ruleset part 2/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 9117-18231 of 27346
-DOMAIN-SUFFIX,facebook-privacy.com
+# Lines 9118-18234 of 27351
 DOMAIN-SUFFIX,facebook-program.com
 DOMAIN-SUFFIX,facebook-studio.com
 DOMAIN-SUFFIX,facebook-support.org
@@ -2270,6 +2269,8 @@ DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grabhentai.com
 DOMAIN-SUFFIX,grabpussy.com
 DOMAIN-SUFFIX,gradeuptube.com
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,graias.com
 DOMAIN-SUFFIX,graiasmovies.com
@@ -9117,3 +9118,4 @@ DOMAIN-SUFFIX,on-media.ru
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
+DOMAIN-SUFFIX,onahodouga.com
