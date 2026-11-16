@@ -1,7 +1,10 @@
 # Loyalsoldier proxy ruleset part 2/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 9119-18235 of 27352
+# Lines 9120-18238 of 27357
+DOMAIN-SUFFIX,facebook-pmdcenter.net
+DOMAIN-SUFFIX,facebook-pmdcenter.org
+DOMAIN-SUFFIX,facebook-privacy.com
 DOMAIN-SUFFIX,facebook-program.com
 DOMAIN-SUFFIX,facebook-studio.com
 DOMAIN-SUFFIX,facebook-support.org
@@ -9118,4 +9121,3 @@ DOMAIN-SUFFIX,on-media.ru
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
-DOMAIN-SUFFIX,onahodouga.com
