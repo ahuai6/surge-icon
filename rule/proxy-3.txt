@@ -2,6 +2,7 @@
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
 # Lines 18241-27359 of 27359
+DOMAIN-SUFFIX,onahodouga.com
 DOMAIN-SUFFIX,onamae-desktop.com
 DOMAIN-SUFFIX,onamae-office.com
 DOMAIN-SUFFIX,onamae.com
@@ -8486,7 +8487,6 @@ DOMAIN-SUFFIX,yandexdataschool.ru
 DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexwebcache.net
-DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yango-b2b.com
 DOMAIN-SUFFIX,yango-team.com
 DOMAIN-SUFFIX,yango-tech.com
