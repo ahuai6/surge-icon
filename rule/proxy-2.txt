@@ -1,13 +1,7 @@
 # Loyalsoldier proxy ruleset part 2/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 9084-18166 of 27248
-DOMAIN-SUFFIX,facebook-privacy.com
-DOMAIN-SUFFIX,facebook-program.com
-DOMAIN-SUFFIX,facebook-studio.com
-DOMAIN-SUFFIX,facebook-support.org
-DOMAIN-SUFFIX,facebook-texas-holdem.com
-DOMAIN-SUFFIX,facebook-texas-holdem.net
+# Lines 9092-18181 of 27271
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.ca
 DOMAIN-SUFFIX,facebook.cc
@@ -289,6 +283,7 @@ DOMAIN-SUFFIX,fantasti.cc
 DOMAIN-SUFFIX,fantom.foundation
 DOMAIN-SUFFIX,fantom.network
 DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,fanza.jp
 DOMAIN-SUFFIX,fap-xxx.com
 DOMAIN-SUFFIX,fap18.net
 DOMAIN-SUFFIX,fap666.com
@@ -736,6 +731,7 @@ DOMAIN-SUFFIX,fnlondon.com
 DOMAIN-SUFFIX,fnmt.es
 DOMAIN-SUFFIX,foampositeshoes.com
 DOMAIN-SUFFIX,fochk.org
+DOMAIN-SUFFIX,focusfeatures.com
 DOMAIN-SUFFIX,focustaiwan.tw
 DOMAIN-SUFFIX,fofg.org
 DOMAIN-SUFFIX,foftolia.com
@@ -2526,6 +2522,7 @@ DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
+DOMAIN-SUFFIX,hayu.com
 DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
@@ -2971,6 +2968,7 @@ DOMAIN-SUFFIX,hkpeanut.com
 DOMAIN-SUFFIX,hkporn.net
 DOMAIN-SUFFIX,hkreadingcity.net
 DOMAIN-SUFFIX,hkreporter.com
+DOMAIN-SUFFIX,hkt
 DOMAIN-SUFFIX,hkt-enterprise.com
 DOMAIN-SUFFIX,hkt-eye.com
 DOMAIN-SUFFIX,hkt.com
@@ -3894,6 +3892,7 @@ DOMAIN-SUFFIX,ilife.gr
 DOMAIN-SUFFIX,ilife.wang
 DOMAIN-SUFFIX,illawarramercury.com.au
 DOMAIN-SUFFIX,illgames.jp
+DOMAIN-SUFFIX,illumination.com
 DOMAIN-SUFFIX,illusion111.com
 DOMAIN-SUFFIX,illusionas.com
 DOMAIN-SUFFIX,illusionchn.com
@@ -7647,7 +7646,6 @@ DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msn.net
-DOMAIN-SUFFIX,msnbc.com
 DOMAIN-SUFFIX,msnewskids.com
 DOMAIN-SUFFIX,msnewskids.net
 DOMAIN-SUFFIX,msnewskids.org
@@ -8047,8 +8045,11 @@ DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,nbcolympics.com
 DOMAIN-SUFFIX,nbcsports.com
 DOMAIN-SUFFIX,nbcudigitaladops.com
+DOMAIN-SUFFIX,nbcumv.com
 DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,nbcunicareers.com
 DOMAIN-SUFFIX,nbcuniversal.com
+DOMAIN-SUFFIX,nbcuniversalprivacy.com
 DOMAIN-SUFFIX,nbdh15.buzz
 DOMAIN-SUFFIX,nbtvpn.com
 DOMAIN-SUFFIX,nbys.tv
@@ -9085,3 +9086,9 @@ DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onahodouga.com
 DOMAIN-SUFFIX,onamae-desktop.com
+DOMAIN-SUFFIX,onamae-office.com
+DOMAIN-SUFFIX,onamae.com
+DOMAIN-SUFFIX,onani-daisuki.com
+DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,onbeatsbydresale.com
+DOMAIN-SUFFIX,oncars.in

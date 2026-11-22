@@ -1,13 +1,7 @@
 # Loyalsoldier proxy ruleset part 3/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 18167-27248 of 27248
-DOMAIN-SUFFIX,onamae-office.com
-DOMAIN-SUFFIX,onamae.com
-DOMAIN-SUFFIX,onani-daisuki.com
-DOMAIN-SUFFIX,onapp.com
-DOMAIN-SUFFIX,onbeatsbydresale.com
-DOMAIN-SUFFIX,oncars.in
+# Lines 18182-27271 of 27271
 DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,one889.app
@@ -593,6 +587,7 @@ DOMAIN-SUFFIX,pbxes.com
 DOMAIN-SUFFIX,pbxes.org
 DOMAIN-SUFFIX,pc.com
 DOMAIN-SUFFIX,pca.st
+DOMAIN-SUFFIX,pccw
 DOMAIN-SUFFIX,pccw.com
 DOMAIN-SUFFIX,pccwglobal.com
 DOMAIN-SUFFIX,pccwsolutions.com
@@ -2188,6 +2183,7 @@ DOMAIN-SUFFIX,rentry.co
 DOMAIN-SUFFIX,renyurenquan.org
 DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,repe21.com
+DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,repotama.com
@@ -4650,6 +4646,7 @@ DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telekom.de
+DOMAIN-SUFFIX,telemundo.com
 DOMAIN-SUFFIX,telerik.com
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telesec.de
@@ -5241,6 +5238,7 @@ DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrenty.org
 DOMAIN-SUFFIX,torrindex.net
+DOMAIN-SUFFIX,tortoisegit.org
 DOMAIN-SUFFIX,tortoisesvn.net
 DOMAIN-SUFFIX,torvpn.com
 DOMAIN-SUFFIX,tosh.comedycentral.com
@@ -5732,6 +5730,7 @@ DOMAIN-SUFFIX,udndata.com
 DOMAIN-SUFFIX,udnfunlife.com
 DOMAIN-SUFFIX,udomain.hk
 DOMAIN-SUFFIX,udtrucksmeena.com
+DOMAIN-SUFFIX,udxfpp.com
 DOMAIN-SUFFIX,ueberamazon.de
 DOMAIN-SUFFIX,uflash.tv
 DOMAIN-SUFFIX,uforadio.com.tw
@@ -5809,11 +5808,18 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,united.ru
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,universalbeijingresort.com
+DOMAIN-SUFFIX,universalhorrorunleashed.com
+DOMAIN-SUFFIX,universalkidsresort.com
 DOMAIN-SUFFIX,universalorlando.com
+DOMAIN-SUFFIX,universalpictures.co.uk
 DOMAIN-SUFFIX,universalpictures.com
+DOMAIN-SUFFIX,universalpicturesathome.com
 DOMAIN-SUFFIX,universalpicturesinternational.com
+DOMAIN-SUFFIX,universalproductsexperiences.com
 DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,universalstudioshollywood.com
+DOMAIN-SUFFIX,universalukproject.co.uk
 DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,unknownspace.org
 DOMAIN-SUFFIX,unkoscene.com
@@ -5840,6 +5846,7 @@ DOMAIN-SUFFIX,updatetube.com
 DOMAIN-SUFFIX,upfrontcfd.com
 DOMAIN-SUFFIX,upfrontfea.com
 DOMAIN-SUFFIX,upghsbc.com
+DOMAIN-SUFFIX,uphe.com
 DOMAIN-SUFFIX,upholdjustice.org
 DOMAIN-SUFFIX,upjav.cc
 DOMAIN-SUFFIX,uplay-istrip.com
@@ -5889,6 +5896,7 @@ DOMAIN-SUFFIX,userpxt.io
 DOMAIN-SUFFIX,usersdrive.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usfk.mil
+DOMAIN-SUFFIX,usj.co.jp
 DOMAIN-SUFFIX,usma.edu
 DOMAIN-SUFFIX,usno.navy.mil
 DOMAIN-SUFFIX,usocial.pro
