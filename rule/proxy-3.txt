@@ -1,7 +1,7 @@
 # Loyalsoldier proxy ruleset part 3/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 18186-27277 of 27277
+# Lines 18193-27288 of 27288
 DOMAIN-SUFFIX,oncars.in
 DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,one.one.one
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,onion.city
 DOMAIN-SUFFIX,onion.ly
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,onkakao.net
+DOMAIN-SUFFIX,onlime.ru
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,online.recoveryversion.org
@@ -2359,6 +2360,7 @@ DOMAIN-SUFFIX,rosemarydoll.com
 DOMAIN-SUFFIX,roshy.tv
 DOMAIN-SUFFIX,rossiyasegodnya.com
 DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,rostelecom-rb.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,roudao6.buzz
@@ -3813,6 +3815,7 @@ DOMAIN-SUFFIX,spatial.io
 DOMAIN-SUFFIX,spb.com
 DOMAIN-SUFFIX,spbexchange.ru
 DOMAIN-SUFFIX,spcc-sp.com
+DOMAIN-SUFFIX,spd-mgts.ru
 DOMAIN-SUFFIX,speakerdeck.com
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,spectraltube.com
@@ -7875,6 +7878,7 @@ DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
+DOMAIN-SUFFIX,xn--e1aapchhekkk.xn--p1ai
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN-SUFFIX,xn--fiq80y.hk
