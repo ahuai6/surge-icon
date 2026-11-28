@@ -1,7 +1,7 @@
 # Loyalsoldier proxy ruleset part 1/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 1-9096 of 27288
+# Lines 1-9098 of 27293
 DOMAIN,1password.drift.click
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
@@ -63,6 +63,7 @@ DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN,assets.ppy.sh
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -1844,6 +1845,7 @@ DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aimei133.com
@@ -7039,6 +7041,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 DOMAIN-SUFFIX,danskpornofilm.com
 DOMAIN-SUFFIX,dansmovies.com
@@ -9097,4 +9100,3 @@ DOMAIN-SUFFIX,facebook-texas-holdem.com
 DOMAIN-SUFFIX,facebook-texas-holdem.net
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.ca
-DOMAIN-SUFFIX,facebook.cc

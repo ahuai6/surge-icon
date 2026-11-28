@@ -1,7 +1,7 @@
 # Loyalsoldier proxy ruleset part 3/3
 # Upstream: https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 # Auto-synced; do not edit by hand
-# Lines 18193-27288 of 27288
+# Lines 18197-27293 of 27293
 DOMAIN-SUFFIX,oncars.in
 DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,one.one.one
@@ -3787,6 +3787,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacely.com.au
